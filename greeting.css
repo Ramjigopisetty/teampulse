@@ -1,0 +1,15 @@
+.greetingHeading{
+    text-align:center;
+}
+
+.mainsection{
+    background-color:blue;
+    height:100vh;
+    background-image:linear-gradient(aqua,aquamarine);
+}
+
+.mainsection2{
+    background-color:blue;
+    height:100vh;
+    background-image:linear-gradient(aqua,aquamarine);
+}
